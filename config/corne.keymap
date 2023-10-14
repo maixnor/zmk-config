@@ -17,6 +17,12 @@
 
 #define ___ &none
 
+// macros definition
+#define meh LG(LC(LALT))
+#define hyper LG(LC(LS(LALT)))
+#define deg RA(LS(N8))
+#define HR_APP LG(LS(SPACE))
+
 // tune mod tap
 &mt {
     flavor = "tap-preferred";
